@@ -1,6 +1,6 @@
-Hi 👋, I'm Sainadh Pathakunti
+Hi 👋, I'm Sainadh Pathakunti, Self-Taught Programmer 
 ***
-* 🏢 I'm an iOS Software Engineer @ [siimatechnologies](http://www.siimatechnologies.com/)
+* 🏢 I'm an Senior Software Engineer @ [Ford Motor Company](https://www.india.ford.com/)
 * 🔭 I spent some free time on learning new things
 * 🌱 I’m currently learning Flutter
 * 💬 Ask me about iOS, macOS & tvOS
